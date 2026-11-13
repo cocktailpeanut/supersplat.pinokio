@@ -1,0 +1,11 @@
+{
+  "title": "SuperSplat",
+  "description": "Inspect, edit, optimize and export 3D Gaussian splats locally in your browser.",
+  "links": [{
+    "title": "Source",
+    "value": "https://github.com/playcanvas/supersplat"
+  }, {
+    "title": "User guide",
+    "value": "https://developer.playcanvas.com/user-manual/gaussian-splatting/editing/supersplat/"
+  }]
+}
