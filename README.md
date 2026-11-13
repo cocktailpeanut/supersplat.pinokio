@@ -80,4 +80,6 @@ npm reported 19 upstream dependency advisories (3 low, 10 moderate, 6 high), plu
 
 This launcher's source is available under the [MIT license](LICENSE).
 
-SuperSplat is provided under its upstream [MIT license](https://github.com/playcanvas/supersplat/blob/main/LICENSE), downloaded with the app. This launcher does not modify or redistribute the app's source in its own repository.
+The bundled `icon.png` is an unchanged copy of SuperSplat's [official favicon](https://github.com/playcanvas/supersplat/blob/919f0e5d60a94470ed8ebcbc7353a29d0a4344f0/static/icons/logo-192.png), copyright PlayCanvas Ltd., under the same MIT terms. Its copyright notice is included in [LICENSE](LICENSE).
+
+SuperSplat is provided under its upstream [MIT license](https://github.com/playcanvas/supersplat/blob/main/LICENSE), downloaded with the app. The launcher downloads the app's source during installation.

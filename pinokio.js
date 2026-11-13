@@ -2,6 +2,7 @@ module.exports = {
   version: "8.0.0",
   title: "SuperSplat",
   description: "Inspect, edit, optimize and export 3D Gaussian splats in your browser.",
+  icon: "icon.png",
   menu: async (kernel, info) => {
     const installed = info.exists("app/node_modules") && info.exists("app/dist/index.js")
     const running = {
